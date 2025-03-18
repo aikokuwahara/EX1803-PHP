@@ -9,7 +9,7 @@
 		<legend> Café da Hello Kitty!! </legend>
 		<form method="post" action = "calcular.php">
 
-        Informe seu nome: 
+        Digite seu nome: 
         <input type = "text" name = "$nome" size = "25" />
         <br><br>
 

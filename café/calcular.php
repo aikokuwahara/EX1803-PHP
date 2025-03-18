@@ -33,7 +33,7 @@
             $t = $t + 14;  
             break;
         default:
-            echo ("Você não inseriu todos os dados corretamente.");
+            echo ("Você não digitou todos os dados corretamente.");
        
     }
 
@@ -69,7 +69,7 @@
             $t2 = $t2 + 9;
             break;
         default:
-            echo ("Você não inseriu todos os dados corretamente.");
+            echo ("Você não digitou todos os dados corretamente.");
        
     }
 
